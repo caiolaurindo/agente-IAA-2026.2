@@ -1,10 +1,23 @@
-# 🤖 Agente de IA com Google Gemini e Streamlit
+# Agente de IA com Google Gemini e Streamlit
+
+> **Disciplina:** 2026.2-NSIN-0104 — Inteligência Artificial Aplicada (Noite)  
+> **Atividade:** Quiz 03  
+> **Professor:** Leonardo Machado Cavalcanti  
+> **Equipe:** Grupo 03
+
+### 👥 Integrantes — Grupo 03
+- **Adriano José Valença Gomes Filho**
+- **Caio Lucas Laurindo da Silva**
+- **Moisés Carlos de Araújo Neto**
+- **Yasmin Marcelly Vasconcelos de Arruda**
+
+---
 
 Um assistente conversacional interativo desenvolvido em **Python** com interface **Streamlit** e integrado à API oficial do **Google Gemini** (`google-genai`). O agente mantém o histórico e o contexto da conversa durante a sessão, respondendo de forma didática em português brasileiro.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **Chat interativo em tempo real** com interface web via Streamlit.
 - **Memória de conversa (`st.session_state`)**: envia o histórico da sessão para o modelo manter o contexto entre as perguntas.
